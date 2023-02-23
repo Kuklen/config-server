@@ -1,6 +1,6 @@
 spring:
   boot:
-    message: thats the department r? updated!
+    message: thats the department r? its from Spring cloud bus demo
   datasource:
     url: jdbc:mysql://localhost:3306/department
     username: root
